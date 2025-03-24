@@ -1,4 +1,3 @@
-'''
 pwa-project/
 │── backend/                # Carpeta para el backend (API en Python)
 │   ├── app/
@@ -20,4 +19,3 @@ pwa-project/
 │── .gitignore              # Archivos a ignorar en Git
 │── README.md               # Documentación del proyecto
 │── docker-compose.yml      # (Opcional) Para levantar backend y frontend con Docker
-'''
