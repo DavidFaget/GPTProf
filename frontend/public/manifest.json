@@ -1,0 +1,21 @@
+{
+    "short_name": "GPTProf",
+    "name": "GPTProf",
+    "icons": [
+      {
+        "src": "icon-192.jpg",
+        "type": "image/jpg",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icon-512.jpg",
+        "type": "image/jpg",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
