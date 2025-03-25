@@ -2,7 +2,7 @@
 
 export async function fetchQuestions({ tema, formacion, dificultad_input }) {
     try {
-      const response = await fetch('http://192.168.68.62:8000/generate-questions/', {
+      const response = await fetch('http://localhost:8000/generate-questions/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
